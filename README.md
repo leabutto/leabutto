@@ -28,5 +28,7 @@ Aprendiendo: ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&log
 
 | Proyecto | Qué es | Stack | Estado |
 |---|---|---|---|
-| [**Hola Pacha**](https://github.com/leabutto/tienda-deco) | Tienda online para un emprendimiento de decoración: catálogo, carrito, pago con Mercado Pago, cotización de envíos y panel de administración | Spring Boot · Spring Security (JWT) · JPA · PostgreSQL · React | 🚧 En desarrollo |
-| [**Consultorio Odontológico**](https://github.com/leabutto/ProyectoClinica) | Sistema de gestión multi-consultorio: pacientes, turnos, obras sociales y odontograma digital. Migrado de Servlets/JSP a Spring Boot | Spring Boot · Spring Security · JPA · Thymeleaf · PostgreSQL | ✅ Funcional |
+| **Hola Pacha** | Tienda online para un emprendimiento de decoración: catálogo, carrito, pago con Mercado Pago, cotización de envíos y panel de administración | Spring Boot · Spring Security (JWT) · JPA · PostgreSQL · React | 🚧 En desarrollo |
+| **Consultorio Odontológico** | Sistema de gestión multi-consultorio: pacientes, turnos, obras sociales y odontograma digital. Migrado de Servlets/JSP a Spring Boot | Spring Boot · Spring Security · JPA · Thymeleaf · PostgreSQL | ✅ Funcional |
+
+El código de los dos proyectos es privado. Hay capturas en el [portfolio](https://leabutto.github.io), y lo muestro con gusto en una entrevista.
